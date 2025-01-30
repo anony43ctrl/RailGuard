@@ -41,20 +41,5 @@ The dataset comprises railway track images captured under various conditions to 
 - **Precision**: **97%**, **Recall**: **96%**, **F1-Score**: **98%**
 - **Well-Generalized**: No overfitting, consistent validation loss.
 
-## 🛠 Installation
-```bash
-git clone https://github.com/yourusername/RailGuard.git
-cd RailGuard
-pip install -r requirements.txt
-```
-##🏃 Usage
-python train.py  # Train the model
-python test.py   # Run inference on test images
-
-##📝 Dataset
-The dataset contains labeled railway track defect images.
-Categories: Cracks, Flakes, Grooves, Joints, Shellings, Spallings, Squats.
-Preprocessed & Augmented before training.
-
 ##💡 Contributing
 Feel free to fork this repo and contribute via pull requests. Any improvements or suggestions are welcome!
