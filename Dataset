@@ -1,0 +1,11 @@
+## 📂 Dataset  
+### 🌍 **Real-World Image Collection**  
+The dataset comprises railway track images captured under various conditions to enhance **model robustness** and generalization.  
+
+🔗 Source: 
+[Dataset DOI: 10.1016/j.dib.2024.110050](https://doi.org/10.1016/j.dib.2024.110050)  
+
+📌 Key Features:  
+- **Properly labeled** fault categories for supervised learning.  
+- Covers **multiple fault types** (e.g., cracks, flakes, grooves).  
+- Ensures **generalization to real-world railway monitoring** applications.  
