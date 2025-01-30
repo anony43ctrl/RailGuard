@@ -10,6 +10,15 @@ RailGuard is a deep learning-based railway track fault detection system. It util
 - **Optimized Performance**: Fine-tuned with **custom layers** for accurate classification.
 - **Robust Evaluation**: Validated using **confusion matrix, precision, recall, F1-score**.
 
+## 📂 Dataset  
+The dataset comprises railway track images captured under various conditions to enhance **model robustness** and generalization.  
+🔗 **Source:** [Dataset DOI: 10.1016/j.dib.2024.110050](https://doi.org/10.1016/j.dib.2024.110050)  
+
+📌 **Key Features:**  
+- **Properly labeled** fault categories for supervised learning.  
+- Covers **multiple fault types** (e.g., cracks, flakes, grooves).  
+- Ensures **generalization to real-world railway monitoring** applications.  
+
 ## 🔬 Methodology
 1. **Dataset Preparation**:
    - Convert images to **grayscale**, apply **ROI cropping, denoising, thresholding**.
